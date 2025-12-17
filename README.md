@@ -1,7 +1,3 @@
-# mitre-attack-threat-hunt
-Threat hunting and adversary analysis using the MITRE ATT&amp;CK framework
-# MITRE ATT&CK Threat Hunt Report
-
 ## Overview
 This repository contains a threat hunting and adversary analysis report developed as part of **CIS3213 – Cyber Threat Intelligence**.
 
